@@ -40,7 +40,7 @@ Install the necessary libraries for this workshop by running the following comma
 
 ```bash
 npm install
-
+```
 This command installs all the dependencies defined in the `package.json` file and may take a few minutes to complete.
 
 ## Getting Started
