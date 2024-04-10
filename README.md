@@ -7,7 +7,7 @@ Welcome to our Generative AI workshop! This repository contains all the necessar
 Before you begin, ensure you have the following:
 
 - Node.js installed on your system. If you don't have Node.js installed, download it from [the official Node.js website](https://nodejs.org/).
-- Install the [Google Cloud CLI] (https://cloud.google.com/sdk/docs/install)
+- Install the [Google Cloud CLI](https://cloud.google.com/sdk/docs/install)
 - Access to a Google Cloud Platform (GCP) account.
 
 ## Setup Instructions
