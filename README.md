@@ -2,6 +2,8 @@
 
 Welcome to our Generative AI workshop! This repository contains all the necessary materials and instructions to get you started. Follow the steps below to set up your environment fully.
 
+You can find the slides 💫[here]💫(https://docs.google.com/presentation/d/142JOfMkI0_Sj7XK7SniokK_ksZs0Qz-jQXO8UA0d84g/edit?usp=sharing) 
+
 ## Prerequisites
 
 Before you begin, ensure you have the following:
