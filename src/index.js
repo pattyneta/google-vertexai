@@ -5,7 +5,7 @@ import { input } from '@inquirer/prompts';
 
 
 
-const PROJECT_ID = 'geometric-notch-422918-k9'
+const PROJECT_ID = '***ProjectId***'
 const LOCATION = 'europe-west1';
 
 // Initialize Vertex AI with the necessary project and location information once
