@@ -49,4 +49,9 @@ This command installs all the dependencies defined in the `package.json` file an
 
 After installing the dependencies, you're ready to proceed with the workshop content 🎉
 
+```bash
+npm run start
+```
+and follow the prompts!
+
 Happy coding! 🚀💜
