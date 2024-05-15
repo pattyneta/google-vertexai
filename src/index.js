@@ -13,7 +13,7 @@ const vertexAiOptions = { project: PROJECT_ID, location: LOCATION };
 const vertex_ai = new VertexAI(vertexAiOptions);
 
 // Define model name
-const GEMINI_PRO_MODEL_NAME = 'gemini-pro';
+const MODEL_NAME = 'gemini-pro';
 
 // Safety settings can be moved outside of the model instantiation,
 // if they are static and reused across multiple instances
@@ -24,7 +24,7 @@ const safetySettings = [{
 
 // Instantiate models once outside of functions to avoid repeated initializations
 const generativeModelOptions = {
-  model: GEMINI_PRO_MODEL_NAME,
+  model: MODEL_NAME,
   safety_settings: safetySettings,
   generation_config: { max_output_tokens: 256 },
 };
